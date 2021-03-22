@@ -16,7 +16,7 @@ spec:
         app: events-internal
     spec:
       containers:
-      - image: gcr.io/mar-roidtc321/internal_image
+      - image: gcr.io/methodical-aura-308217/internal-new-image
         name: events-internal
         imagePullPolicy: "Always"
         resources:
